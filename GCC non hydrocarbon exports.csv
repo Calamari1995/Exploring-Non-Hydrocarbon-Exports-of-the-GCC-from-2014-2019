@@ -1,0 +1,756 @@
+Country,Section ID,Section,Trade Value,Year
+Bahrain,1,Animal Products,249016164,2014
+Bahrain,2,Vegetable Products,98376,2014
+Bahrain,3,Animal and Vegetable Bi-Products,8354785,2014
+Bahrain,4,Foodstuffs,361415360,2014
+Bahrain,5,Mineral Products,856557657,2014
+Bahrain,6,Chemical Products,744987034,2014
+Bahrain,7,Plastics and Rubbers,238751681,2014
+Bahrain,8,Animal Hides,7109931,2014
+Bahrain,9,Wood Products,22496589,2014
+Bahrain,10,Paper Goods,159198350,2014
+Bahrain,11,Textiles,393970651,2014
+Bahrain,12,Footwear and Headwear,10033533,2014
+Bahrain,13,Stone And Glass,20401016,2014
+Bahrain,14,Precious Metals,474590177,2014
+Bahrain,15,Metals,3974446719,2014
+Bahrain,16,Machines,977251205,2014
+Bahrain,17,Transportation,809156210,2014
+Bahrain,18,Instruments,73905923,2014
+Bahrain,19,Weapons,102500,2014
+Bahrain,20,Miscellaneous,68498326,2014
+Bahrain,21,Arts and Antiques,1353127,2014
+Bahrain,1,Animal Products,105989197,2015
+Bahrain,2,Vegetable Products,12582211,2015
+Bahrain,3,Animal and Vegetable Bi-Products,2195624,2015
+Bahrain,4,Foodstuffs,375097869,2015
+Bahrain,5,Mineral Products,426656857,2015
+Bahrain,6,Chemical Products,628388396,2015
+Bahrain,7,Plastics and Rubbers,311676676,2015
+Bahrain,8,Animal Hides,28621483,2015
+Bahrain,9,Wood Products,36304242,2015
+Bahrain,10,Paper Goods,176822917,2015
+Bahrain,11,Textiles,1025846209,2015
+Bahrain,12,Footwear and Headwear,161343259,2015
+Bahrain,13,Stone And Glass,87664423,2015
+Bahrain,14,Precious Metals,321250333,2015
+Bahrain,15,Metals,3343647871,2015
+Bahrain,16,Machines,1478805634,2015
+Bahrain,17,Transportation,645025118,2015
+Bahrain,18,Instruments,133877253,2015
+Bahrain,19,Weapons,632380,2015
+Bahrain,20,Miscellaneous,88471721,2015
+Bahrain,21,Arts and Antiques,7030522,2015
+Bahrain,1,Animal Products,116213257,2016
+Bahrain,2,Vegetable Products,13434252,2016
+Bahrain,3,Animal and Vegetable Bi-Products,1956795,2016
+Bahrain,4,Foodstuffs,273899966,2016
+Bahrain,5,Mineral Products,613789287,2016
+Bahrain,6,Chemical Products,540734124,2016
+Bahrain,7,Plastics and Rubbers,245697302,2016
+Bahrain,8,Animal Hides,14878021,2016
+Bahrain,9,Wood Products,29805519,2016
+Bahrain,10,Paper Goods,75172083,2016
+Bahrain,11,Textiles,562924464,2016
+Bahrain,12,Footwear and Headwear,79874229,2016
+Bahrain,13,Stone And Glass,68862079,2016
+Bahrain,14,Precious Metals,244732833,2016
+Bahrain,15,Metals,2811193610,2016
+Bahrain,16,Machines,851688995,2016
+Bahrain,17,Transportation,403439974,2016
+Bahrain,18,Instruments,97533823,2016
+Bahrain,19,Weapons,573595,2016
+Bahrain,20,Miscellaneous,94387318,2016
+Bahrain,21,Arts and Antiques,16041763,2016
+Bahrain,1,Animal Products,188919579,2017
+Bahrain,2,Vegetable Products,14735073,2017
+Bahrain,3,Animal and Vegetable Bi-Products,1726732,2017
+Bahrain,4,Foodstuffs,291670083,2017
+Bahrain,5,Mineral Products,738398219,2017
+Bahrain,6,Chemical Products,641158728,2017
+Bahrain,7,Plastics and Rubbers,211000069,2017
+Bahrain,8,Animal Hides,11525427,2017
+Bahrain,9,Wood Products,27282261,2017
+Bahrain,10,Paper Goods,137313880,2017
+Bahrain,11,Textiles,295562504,2017
+Bahrain,12,Footwear and Headwear,19235189,2017
+Bahrain,13,Stone And Glass,104267009,2017
+Bahrain,14,Precious Metals,334791067,2017
+Bahrain,15,Metals,3448349376,2017
+Bahrain,16,Machines,463024333,2017
+Bahrain,17,Transportation,567172678,2017
+Bahrain,18,Instruments,73354615,2017
+Bahrain,19,Weapons,58760,2017
+Bahrain,20,Miscellaneous,71027469,2017
+Bahrain,21,Arts and Antiques,523374,2017
+Bahrain,1,Animal Products,216562386,2018
+Bahrain,2,Vegetable Products,23707344,2018
+Bahrain,3,Animal and Vegetable Bi-Products,2663136,2018
+Bahrain,4,Foodstuffs,353184607,2018
+Bahrain,5,Mineral Products,996333823,2018
+Bahrain,6,Chemical Products,710978890,2018
+Bahrain,7,Plastics and Rubbers,210467680,2018
+Bahrain,8,Animal Hides,10158490,2018
+Bahrain,9,Wood Products,22212647,2018
+Bahrain,10,Paper Goods,113700045,2018
+Bahrain,11,Textiles,337127512,2018
+Bahrain,12,Footwear and Headwear,27201151,2018
+Bahrain,13,Stone And Glass,123303024,2018
+Bahrain,14,Precious Metals,371892766,2018
+Bahrain,15,Metals,4308240776,2018
+Bahrain,16,Machines,455390921,2018
+Bahrain,17,Transportation,473675697,2018
+Bahrain,18,Instruments,99240527,2018
+Bahrain,19,Weapons,58794,2018
+Bahrain,20,Miscellaneous,80609023,2018
+Bahrain,21,Arts and Antiques,831051,2018
+Bahrain,1,Animal Products,207385304,2019
+Bahrain,2,Vegetable Products,7332008,2019
+Bahrain,3,Animal and Vegetable Bi-Products,1638075,2019
+Bahrain,4,Foodstuffs,205169848,2019
+Bahrain,5,Mineral Products,526238174,2019
+Bahrain,6,Chemical Products,466094351,2019
+Bahrain,7,Plastics and Rubbers,207788884,2019
+Bahrain,8,Animal Hides,1428116,2019
+Bahrain,9,Wood Products,12766070,2019
+Bahrain,10,Paper Goods,85474316,2019
+Bahrain,11,Textiles,231631015,2019
+Bahrain,12,Footwear and Headwear,9262824,2019
+Bahrain,13,Stone And Glass,95373102,2019
+Bahrain,14,Precious Metals,617499811,2019
+Bahrain,15,Metals,3737936764,2019
+Bahrain,16,Machines,179232040,2019
+Bahrain,17,Transportation,132028633,2019
+Bahrain,18,Instruments,45777377,2019
+Bahrain,20,Miscellaneous,54069740,2019
+Bahrain,21,Arts and Antiques,4925612,2019
+Kuwait,1,Animal Products,191843329,2014
+Kuwait,2,Vegetable Products,88587524,2014
+Kuwait,3,Animal and Vegetable Bi-Products,11772955,2014
+Kuwait,4,Foodstuffs,226688113,2014
+Kuwait,5,Mineral Products,110164769,2014
+Kuwait,6,Chemical Products,3503070478,2014
+Kuwait,7,Plastics and Rubbers,1412054794,2014
+Kuwait,8,Animal Hides,13437308,2014
+Kuwait,9,Wood Products,7342367,2014
+Kuwait,10,Paper Goods,111531305,2014
+Kuwait,11,Textiles,105868450,2014
+Kuwait,12,Footwear and Headwear,7846981,2014
+Kuwait,13,Stone And Glass,178529677,2014
+Kuwait,14,Precious Metals,262729389,2014
+Kuwait,15,Metals,600979393,2014
+Kuwait,16,Machines,513171454,2014
+Kuwait,17,Transportation,1037351411,2014
+Kuwait,18,Instruments,57667323,2014
+Kuwait,19,Weapons,11327436,2014
+Kuwait,20,Miscellaneous,88898441,2014
+Kuwait,21,Arts and Antiques,31282077,2014
+Kuwait,1,Animal Products,176593478,2015
+Kuwait,2,Vegetable Products,105304816,2015
+Kuwait,3,Animal and Vegetable Bi-Products,10213514,2015
+Kuwait,4,Foodstuffs,251872058,2015
+Kuwait,5,Mineral Products,128200641,2015
+Kuwait,6,Chemical Products,2858215809,2015
+Kuwait,7,Plastics and Rubbers,1145843233,2015
+Kuwait,8,Animal Hides,8676705,2015
+Kuwait,9,Wood Products,6321931,2015
+Kuwait,10,Paper Goods,124764586,2015
+Kuwait,11,Textiles,108414063,2015
+Kuwait,12,Footwear and Headwear,7623684,2015
+Kuwait,13,Stone And Glass,125236141,2015
+Kuwait,14,Precious Metals,215193044,2015
+Kuwait,15,Metals,345230692,2015
+Kuwait,16,Machines,397331592,2015
+Kuwait,17,Transportation,785258965,2015
+Kuwait,18,Instruments,63407148,2015
+Kuwait,19,Weapons,846596,2015
+Kuwait,20,Miscellaneous,64913095,2015
+Kuwait,21,Arts and Antiques,4383907,2015
+Kuwait,1,Animal Products,171181276,2016
+Kuwait,2,Vegetable Products,102352802,2016
+Kuwait,3,Animal and Vegetable Bi-Products,11824052,2016
+Kuwait,4,Foodstuffs,234588709,2016
+Kuwait,5,Mineral Products,54477219,2016
+Kuwait,6,Chemical Products,2347894626,2016
+Kuwait,7,Plastics and Rubbers,1075522187,2016
+Kuwait,8,Animal Hides,10806531,2016
+Kuwait,9,Wood Products,4952408,2016
+Kuwait,10,Paper Goods,118147660,2016
+Kuwait,11,Textiles,118871854,2016
+Kuwait,12,Footwear and Headwear,7279303,2016
+Kuwait,13,Stone And Glass,93211198,2016
+Kuwait,14,Precious Metals,178075535,2016
+Kuwait,15,Metals,300328438,2016
+Kuwait,16,Machines,336325775,2016
+Kuwait,17,Transportation,742642732,2016
+Kuwait,18,Instruments,74822780,2016
+Kuwait,19,Weapons,794049,2016
+Kuwait,20,Miscellaneous,73174789,2016
+Kuwait,21,Arts and Antiques,1236823,2016
+Kuwait,1,Animal Products,198672584,2017
+Kuwait,2,Vegetable Products,164434005,2017
+Kuwait,3,Animal and Vegetable Bi-Products,14648765,2017
+Kuwait,4,Foodstuffs,286935507,2017
+Kuwait,5,Mineral Products,52113934,2017
+Kuwait,6,Chemical Products,2707353364,2017
+Kuwait,7,Plastics and Rubbers,1080839223,2017
+Kuwait,8,Animal Hides,6653815,2017
+Kuwait,9,Wood Products,4683561,2017
+Kuwait,10,Paper Goods,136419185,2017
+Kuwait,11,Textiles,71013775,2017
+Kuwait,12,Footwear and Headwear,12462912,2017
+Kuwait,13,Stone And Glass,92979212,2017
+Kuwait,14,Precious Metals,170937532,2017
+Kuwait,15,Metals,418364009,2017
+Kuwait,16,Machines,338927334,2017
+Kuwait,17,Transportation,1002975080,2017
+Kuwait,18,Instruments,100315926,2017
+Kuwait,19,Weapons,4363738,2017
+Kuwait,20,Miscellaneous,56229927,2017
+Kuwait,21,Arts and Antiques,903255,2017
+Kuwait,1,Animal Products,198672584,2018
+Kuwait,2,Vegetable Products,164434005,2018
+Kuwait,3,Animal and Vegetable Bi-Products,14648765,2018
+Kuwait,4,Foodstuffs,286935507,2018
+Kuwait,5,Mineral Products,52113934,2018
+Kuwait,6,Chemical Products,2707353364,2018
+Kuwait,7,Plastics and Rubbers,1080839223,2018
+Kuwait,8,Animal Hides,6653815,2018
+Kuwait,9,Wood Products,4683561,2018
+Kuwait,10,Paper Goods,136419185,2018
+Kuwait,11,Textiles,71013775,2018
+Kuwait,12,Footwear and Headwear,12462912,2018
+Kuwait,13,Stone And Glass,92979212,2018
+Kuwait,14,Precious Metals,170937532,2018
+Kuwait,15,Metals,418364009,2018
+Kuwait,16,Machines,338927334,2018
+Kuwait,17,Transportation,1002975080,2018
+Kuwait,18,Instruments,100315926,2018
+Kuwait,19,Weapons,4363738,2018
+Kuwait,20,Miscellaneous,56229927,2018
+Kuwait,21,Arts and Antiques,903255,2018
+Kuwait,1,Animal Products,44941327,2019
+Kuwait,2,Vegetable Products,76950241,2019
+Kuwait,3,Animal and Vegetable Bi-Products,12523203,2019
+Kuwait,4,Foodstuffs,265727591,2019
+Kuwait,5,Mineral Products,100289138,2019
+Kuwait,6,Chemical Products,2929065496,2019
+Kuwait,7,Plastics and Rubbers,846652987,2019
+Kuwait,8,Animal Hides,7693149,2019
+Kuwait,9,Wood Products,4072145,2019
+Kuwait,10,Paper Goods,121070963,2019
+Kuwait,11,Textiles,73618588,2019
+Kuwait,12,Footwear and Headwear,15223205,2019
+Kuwait,13,Stone And Glass,85010826,2019
+Kuwait,14,Precious Metals,170930218,2019
+Kuwait,15,Metals,407764793,2019
+Kuwait,16,Machines,514646811,2019
+Kuwait,17,Transportation,3513940291,2019
+Kuwait,18,Instruments,121685495,2019
+Kuwait,19,Weapons,2221041,2019
+Kuwait,20,Miscellaneous,101077797,2019
+Kuwait,21,Arts and Antiques,1276581,2019
+Saudi Arabia,1,Animal Products,1612163718,2014
+Saudi Arabia,2,Vegetable Products,325158734,2014
+Saudi Arabia,3,Animal and Vegetable Bi-Products,294989447,2014
+Saudi Arabia,4,Foodstuffs,1735463027,2014
+Saudi Arabia,5,Mineral Products,502147596,2014
+Saudi Arabia,6,Chemical Products,25235235479,2014
+Saudi Arabia,7,Plastics and Rubbers,21256511441,2014
+Saudi Arabia,8,Animal Hides,121050469,2014
+Saudi Arabia,9,Wood Products,46911783,2014
+Saudi Arabia,10,Paper Goods,1357358665,2014
+Saudi Arabia,11,Textiles,753036066,2014
+Saudi Arabia,12,Footwear and Headwear,18185150,2014
+Saudi Arabia,13,Stone And Glass,635852969,2014
+Saudi Arabia,14,Precious Metals,1411418675,2014
+Saudi Arabia,15,Metals,4345337180,2014
+Saudi Arabia,16,Machines,2627711204,2014
+Saudi Arabia,17,Transportation,3724554435,2014
+Saudi Arabia,18,Instruments,149213972,2014
+Saudi Arabia,19,Weapons,978033,2014
+Saudi Arabia,20,Miscellaneous,133259862,2014
+Saudi Arabia,21,Arts and Antiques,10743671,2014
+Saudi Arabia,1,Animal Products,1583079186,2015
+Saudi Arabia,2,Vegetable Products,348992826,2015
+Saudi Arabia,3,Animal and Vegetable Bi-Products,289179936,2015
+Saudi Arabia,4,Foodstuffs,1749846825,2015
+Saudi Arabia,5,Mineral Products,564596184,2015
+Saudi Arabia,6,Chemical Products,20621564645,2015
+Saudi Arabia,7,Plastics and Rubbers,17418585707,2015
+Saudi Arabia,8,Animal Hides,100286072,2015
+Saudi Arabia,9,Wood Products,49794496,2015
+Saudi Arabia,10,Paper Goods,1205101082,2015
+Saudi Arabia,11,Textiles,716635041,2015
+Saudi Arabia,12,Footwear and Headwear,18411989,2015
+Saudi Arabia,13,Stone And Glass,578399692,2015
+Saudi Arabia,14,Precious Metals,1296032091,2015
+Saudi Arabia,15,Metals,4392498063,2015
+Saudi Arabia,16,Machines,2587419708,2015
+Saudi Arabia,17,Transportation,4335779748,2015
+Saudi Arabia,18,Instruments,170666368,2015
+Saudi Arabia,19,Weapons,978548,2015
+Saudi Arabia,20,Miscellaneous,107980562,2015
+Saudi Arabia,21,Arts and Antiques,4881617,2015
+Saudi Arabia,1,Animal Products,1588767164,2016
+Saudi Arabia,2,Vegetable Products,356597549,2016
+Saudi Arabia,3,Animal and Vegetable Bi-Products,323052386,2016
+Saudi Arabia,4,Foodstuffs,1678048456,2016
+Saudi Arabia,5,Mineral Products,568660500,2016
+Saudi Arabia,6,Chemical Products,17167805773,2016
+Saudi Arabia,7,Plastics and Rubbers,16853753312,2016
+Saudi Arabia,8,Animal Hides,84224190,2016
+Saudi Arabia,9,Wood Products,39384159,2016
+Saudi Arabia,10,Paper Goods,1093135931,2016
+Saudi Arabia,11,Textiles,598245512,2016
+Saudi Arabia,12,Footwear and Headwear,18963086,2016
+Saudi Arabia,13,Stone And Glass,582903626,2016
+Saudi Arabia,14,Precious Metals,1844337630,2016
+Saudi Arabia,15,Metals,3836518576,2016
+Saudi Arabia,16,Machines,2366329709,2016
+Saudi Arabia,17,Transportation,3487329898,2016
+Saudi Arabia,18,Instruments,156761178,2016
+Saudi Arabia,19,Weapons,1241048,2016
+Saudi Arabia,20,Miscellaneous,107167410,2016
+Saudi Arabia,21,Arts and Antiques,137496123,2016
+Saudi Arabia,1,Animal Products,1591929792,2017
+Saudi Arabia,2,Vegetable Products,392585593,2017
+Saudi Arabia,3,Animal and Vegetable Bi-Products,268954222,2017
+Saudi Arabia,4,Foodstuffs,1602289197,2017
+Saudi Arabia,5,Mineral Products,748329230,2017
+Saudi Arabia,6,Chemical Products,17518155175,2017
+Saudi Arabia,7,Plastics and Rubbers,19517369273,2017
+Saudi Arabia,8,Animal Hides,103157886,2017
+Saudi Arabia,9,Wood Products,49932206,2017
+Saudi Arabia,10,Paper Goods,1042637995,2017
+Saudi Arabia,11,Textiles,668400726,2017
+Saudi Arabia,12,Footwear and Headwear,11778173,2017
+Saudi Arabia,13,Stone And Glass,566398599,2017
+Saudi Arabia,14,Precious Metals,1328008622,2017
+Saudi Arabia,15,Metals,4802089196,2017
+Saudi Arabia,16,Machines,2585629260,2017
+Saudi Arabia,17,Transportation,4175527607,2017
+Saudi Arabia,18,Instruments,208471435,2017
+Saudi Arabia,19,Weapons,12264733,2017
+Saudi Arabia,20,Miscellaneous,123998039,2017
+Saudi Arabia,21,Arts and Antiques,130745113,2017
+Saudi Arabia,1,Animal Products,1569979864,2018
+Saudi Arabia,2,Vegetable Products,377180696,2018
+Saudi Arabia,3,Animal and Vegetable Bi-Products,271746062,2018
+Saudi Arabia,4,Foodstuffs,1552710059,2018
+Saudi Arabia,5,Mineral Products,1194892104,2018
+Saudi Arabia,6,Chemical Products,22518069047,2018
+Saudi Arabia,7,Plastics and Rubbers,23870173694,2018
+Saudi Arabia,8,Animal Hides,80873983,2018
+Saudi Arabia,9,Wood Products,84026035,2018
+Saudi Arabia,10,Paper Goods,1141833391,2018
+Saudi Arabia,11,Textiles,635130949,2018
+Saudi Arabia,12,Footwear and Headwear,15948201,2018
+Saudi Arabia,13,Stone And Glass,634268843,2018
+Saudi Arabia,14,Precious Metals,1249766144,2018
+Saudi Arabia,15,Metals,6769672165,2018
+Saudi Arabia,16,Machines,2873251861,2018
+Saudi Arabia,17,Transportation,3986712573,2018
+Saudi Arabia,18,Instruments,230090186,2018
+Saudi Arabia,19,Weapons,1281036,2018
+Saudi Arabia,20,Miscellaneous,160299847,2018
+Saudi Arabia,21,Arts and Antiques,75942916,2018
+Saudi Arabia,1,Animal Products,1492216695,2019
+Saudi Arabia,2,Vegetable Products,341539553,2019
+Saudi Arabia,3,Animal and Vegetable Bi-Products,272187074,2019
+Saudi Arabia,4,Foodstuffs,1550509166,2019
+Saudi Arabia,5,Mineral Products,1053427396,2019
+Saudi Arabia,6,Chemical Products,19703801333,2019
+Saudi Arabia,7,Plastics and Rubbers,21554975515,2019
+Saudi Arabia,8,Animal Hides,77581832,2019
+Saudi Arabia,9,Wood Products,32342777,2019
+Saudi Arabia,10,Paper Goods,1015242923,2019
+Saudi Arabia,11,Textiles,475671371,2019
+Saudi Arabia,12,Footwear and Headwear,4377682,2019
+Saudi Arabia,13,Stone And Glass,539693304,2019
+Saudi Arabia,14,Precious Metals,1226572997,2019
+Saudi Arabia,15,Metals,4975339151,2019
+Saudi Arabia,16,Machines,1544532351,2019
+Saudi Arabia,17,Transportation,231028562,2019
+Saudi Arabia,18,Instruments,81459095,2019
+Saudi Arabia,19,Weapons,6530773,2019
+Saudi Arabia,20,Miscellaneous,61859972,2019
+Saudi Arabia,21,Arts and Antiques,33094869,2019
+Qatar,1,Animal Products,26929259,2014
+Qatar,2,Vegetable Products,7100869,2014
+Qatar,3,Animal and Vegetable Bi-Products,2139022,2014
+Qatar,4,Foodstuffs,7422335,2014
+Qatar,5,Mineral Products,374198886,2014
+Qatar,6,Chemical Products,3830438867,2014
+Qatar,7,Plastics and Rubbers,2976342989,2014
+Qatar,8,Animal Hides,11384607,2014
+Qatar,9,Wood Products,713208,2014
+Qatar,10,Paper Goods,58802029,2014
+Qatar,11,Textiles,11196018,2014
+Qatar,12,Footwear and Headwear,3412378,2014
+Qatar,13,Stone And Glass,25705331,2014
+Qatar,14,Precious Metals,185956544,2014
+Qatar,15,Metals,2387257535,2014
+Qatar,16,Machines,173191693,2014
+Qatar,17,Transportation,43429637,2014
+Qatar,18,Instruments,33195106,2014
+Qatar,19,Weapons,23270740,2014
+Qatar,20,Miscellaneous,5880101,2014
+Qatar,21,Arts and Antiques,52762192,2014
+Qatar,1,Animal Products,133064625,2015
+Qatar,2,Vegetable Products,16889615,2015
+Qatar,3,Animal and Vegetable Bi-Products,2626575,2015
+Qatar,4,Foodstuffs,11018551,2015
+Qatar,5,Mineral Products,352925641,2015
+Qatar,6,Chemical Products,4340629139,2015
+Qatar,7,Plastics and Rubbers,2572402413,2015
+Qatar,8,Animal Hides,9751622,2015
+Qatar,9,Wood Products,21948351,2015
+Qatar,10,Paper Goods,71598048,2015
+Qatar,11,Textiles,30786881,2015
+Qatar,12,Footwear and Headwear,3987835,2015
+Qatar,13,Stone And Glass,19996967,2015
+Qatar,14,Precious Metals,399211291,2015
+Qatar,15,Metals,2348590128,2015
+Qatar,16,Machines,774662452,2015
+Qatar,17,Transportation,1209945345,2015
+Qatar,18,Instruments,75050377,2015
+Qatar,19,Weapons,36267123,2015
+Qatar,20,Miscellaneous,18168135,2015
+Qatar,21,Arts and Antiques,54779201,2015
+Qatar,1,Animal Products,22667314,2016
+Qatar,2,Vegetable Products,13384307,2016
+Qatar,3,Animal and Vegetable Bi-Products,2299133,2016
+Qatar,4,Foodstuffs,14573706,2016
+Qatar,5,Mineral Products,248533585,2016
+Qatar,6,Chemical Products,2686398201,2016
+Qatar,7,Plastics and Rubbers,2506778820,2016
+Qatar,8,Animal Hides,7528041,2016
+Qatar,9,Wood Products,2363191,2016
+Qatar,10,Paper Goods,47846777,2016
+Qatar,11,Textiles,10599305,2016
+Qatar,12,Footwear and Headwear,1835509,2016
+Qatar,13,Stone And Glass,5249136,2016
+Qatar,14,Precious Metals,323956757,2016
+Qatar,15,Metals,1741281685,2016
+Qatar,16,Machines,236693582,2016
+Qatar,17,Transportation,126201565,2016
+Qatar,18,Instruments,41458423,2016
+Qatar,19,Weapons,66949,2016
+Qatar,20,Miscellaneous,9889437,2016
+Qatar,21,Arts and Antiques,19585149,2016
+Qatar,1,Animal Products,17067141,2017
+Qatar,2,Vegetable Products,7658103,2017
+Qatar,3,Animal and Vegetable Bi-Products,1754647,2017
+Qatar,4,Foodstuffs,6303213,2017
+Qatar,5,Mineral Products,404888249,2017
+Qatar,6,Chemical Products,3213631993,2017
+Qatar,7,Plastics and Rubbers,2393011313,2017
+Qatar,8,Animal Hides,7488440,2017
+Qatar,9,Wood Products,878889,2017
+Qatar,10,Paper Goods,18726531,2017
+Qatar,11,Textiles,13690619,2017
+Qatar,12,Footwear and Headwear,2083157,2017
+Qatar,13,Stone And Glass,4637019,2017
+Qatar,14,Precious Metals,142662596,2017
+Qatar,15,Metals,1784995829,2017
+Qatar,16,Machines,210125995,2017
+Qatar,17,Transportation,511816592,2017
+Qatar,18,Instruments,43547065,2017
+Qatar,19,Weapons,38108,2017
+Qatar,20,Miscellaneous,9950361,2017
+Qatar,21,Arts and Antiques,29589417,2017
+Qatar,1,Animal Products,14153324,2018
+Qatar,2,Vegetable Products,7887266,2018
+Qatar,3,Animal and Vegetable Bi-Products,3426681,2018
+Qatar,4,Foodstuffs,4416223,2018
+Qatar,5,Mineral Products,394278307,2018
+Qatar,6,Chemical Products,3948945862,2018
+Qatar,7,Plastics and Rubbers,2449478183,2018
+Qatar,8,Animal Hides,8860350,2018
+Qatar,9,Wood Products,2694083,2018
+Qatar,10,Paper Goods,18648672,2018
+Qatar,11,Textiles,12128062,2018
+Qatar,12,Footwear and Headwear,4286482,2018
+Qatar,13,Stone And Glass,3892667,2018
+Qatar,14,Precious Metals,356065128,2018
+Qatar,15,Metals,2222247142,2018
+Qatar,16,Machines,248272451,2018
+Qatar,17,Transportation,723700373,2018
+Qatar,18,Instruments,103077066,2018
+Qatar,19,Weapons,135547,2018
+Qatar,20,Miscellaneous,17557792,2018
+Qatar,21,Arts and Antiques,1079931,2018
+Qatar,1,Animal Products,7126946,2019
+Qatar,2,Vegetable Products,2727168,2019
+Qatar,3,Animal and Vegetable Bi-Products,4284404,2019
+Qatar,4,Foodstuffs,1283517,2019
+Qatar,5,Mineral Products,355227971,2019
+Qatar,6,Chemical Products,3356857955,2019
+Qatar,7,Plastics and Rubbers,1946079364,2019
+Qatar,8,Animal Hides,6472627,2019
+Qatar,9,Wood Products,742329,2019
+Qatar,10,Paper Goods,13295221,2019
+Qatar,11,Textiles,8858705,2019
+Qatar,12,Footwear and Headwear,2564696,2019
+Qatar,13,Stone And Glass,1520885,2019
+Qatar,14,Precious Metals,480590887,2019
+Qatar,15,Metals,2117715365,2019
+Qatar,16,Machines,173269609,2019
+Qatar,17,Transportation,541562268,2019
+Qatar,18,Instruments,49214259,2019
+Qatar,19,Weapons,92912,2019
+Qatar,20,Miscellaneous,16267472,2019
+Qatar,21,Arts and Antiques,2415514,2019
+UAE,1,Animal Products,1326282032,2014
+UAE,2,Vegetable Products,2217678383,2014
+UAE,3,Animal and Vegetable Bi-Products,794579481,2014
+UAE,4,Foodstuffs,3850406161,2014
+UAE,5,Mineral Products,2703944480,2014
+UAE,6,Chemical Products,5933526279,2014
+UAE,7,Plastics and Rubbers,6359785064,2014
+UAE,8,Animal Hides,182534446,2014
+UAE,9,Wood Products,391775005,2014
+UAE,10,Paper Goods,1127737366,2014
+UAE,11,Textiles,2974080241,2014
+UAE,12,Footwear and Headwear,232991628,2014
+UAE,13,Stone And Glass,1865321470,2014
+UAE,14,Precious Metals,34564148286,2014
+UAE,15,Metals,15533375917,2014
+UAE,16,Machines,16388899476,2014
+UAE,17,Transportation,11945352961,2014
+UAE,18,Instruments,1098060952,2014
+UAE,19,Weapons,24778588,2014
+UAE,20,Miscellaneous,1215445238,2014
+UAE,21,Arts and Antiques,82053697,2014
+UAE,1,Animal Products,1254286711,2015
+UAE,2,Vegetable Products,2227105072,2015
+UAE,3,Animal and Vegetable Bi-Products,659391427,2015
+UAE,4,Foodstuffs,4030892376,2015
+UAE,5,Mineral Products,2437403667,2015
+UAE,6,Chemical Products,4972379740,2015
+UAE,7,Plastics and Rubbers,6529535531,2015
+UAE,8,Animal Hides,125692599,2015
+UAE,9,Wood Products,276834813,2015
+UAE,10,Paper Goods,917958476,2015
+UAE,11,Textiles,3026698672,2015
+UAE,12,Footwear and Headwear,186187784,2015
+UAE,13,Stone And Glass,1412121955,2015
+UAE,14,Precious Metals,34072284622,2015
+UAE,15,Metals,13691010895,2015
+UAE,16,Machines,15143139588,2015
+UAE,17,Transportation,8887080591,2015
+UAE,18,Instruments,1064847589,2015
+UAE,19,Weapons,24539537,2015
+UAE,20,Miscellaneous,844737525,2015
+UAE,21,Arts and Antiques,77178749,2015
+UAE,1,Animal Products,1047193995,2016
+UAE,2,Vegetable Products,1985830708,2016
+UAE,3,Animal and Vegetable Bi-Products,713965576,2016
+UAE,4,Foodstuffs,4190331034,2016
+UAE,5,Mineral Products,2323060213,2016
+UAE,6,Chemical Products,4415303034,2016
+UAE,7,Plastics and Rubbers,7020862071,2016
+UAE,8,Animal Hides,96787222,2016
+UAE,9,Wood Products,209500281,2016
+UAE,10,Paper Goods,952778211,2016
+UAE,11,Textiles,2594218434,2016
+UAE,12,Footwear and Headwear,180746064,2016
+UAE,13,Stone And Glass,1289867750,2016
+UAE,14,Precious Metals,45086797830,2016
+UAE,15,Metals,12841556862,2016
+UAE,16,Machines,13626020737,2016
+UAE,17,Transportation,7872792764,2016
+UAE,18,Instruments,995087918,2016
+UAE,19,Weapons,32453256,2016
+UAE,20,Miscellaneous,810472273,2016
+UAE,21,Arts and Antiques,52469371,2016
+UAE,1,Animal Products,1458063100,2017
+UAE,2,Vegetable Products,2237038894,2017
+UAE,3,Animal and Vegetable Bi-Products,645597026,2017
+UAE,4,Foodstuffs,4379655671,2017
+UAE,5,Mineral Products,2245591996,2017
+UAE,6,Chemical Products,7004159169,2017
+UAE,7,Plastics and Rubbers,7669016693,2017
+UAE,8,Animal Hides,218922975,2017
+UAE,9,Wood Products,278446907,2017
+UAE,10,Paper Goods,1319186889,2017
+UAE,11,Textiles,3325585705,2017
+UAE,12,Footwear and Headwear,519180551,2017
+UAE,13,Stone And Glass,1303650469,2017
+UAE,14,Precious Metals,46233302410,2017
+UAE,15,Metals,15673302679,2017
+UAE,16,Machines,26923494849,2017
+UAE,17,Transportation,11415894934,2017
+UAE,18,Instruments,2156381412,2017
+UAE,19,Weapons,12395584,2017
+UAE,20,Miscellaneous,1427710956,2017
+UAE,21,Arts and Antiques,76418463,2017
+UAE,1,Animal Products,1945738298,2018
+UAE,2,Vegetable Products,2704997594,2018
+UAE,3,Animal and Vegetable Bi-Products,609963451,2018
+UAE,4,Foodstuffs,7469880399,2018
+UAE,5,Mineral Products,2504435772,2018
+UAE,6,Chemical Products,8653685196,2018
+UAE,7,Plastics and Rubbers,8105298946,2018
+UAE,8,Animal Hides,240252967,2018
+UAE,9,Wood Products,309197130,2018
+UAE,10,Paper Goods,1525484069,2018
+UAE,11,Textiles,3344541197,2018
+UAE,12,Footwear and Headwear,487021224,2018
+UAE,13,Stone And Glass,1478622842,2018
+UAE,14,Precious Metals,39634348153,2018
+UAE,15,Metals,18340349196,2018
+UAE,16,Machines,29536929831,2018
+UAE,17,Transportation,14180582747,2018
+UAE,18,Instruments,2345440176,2018
+UAE,19,Weapons,29001195,2018
+UAE,20,Miscellaneous,1330674986,2018
+UAE,21,Arts and Antiques,100110584,2018
+UAE,1,Animal Products,1925375522,2019
+UAE,2,Vegetable Products,2810674818,2019
+UAE,3,Animal and Vegetable Bi-Products,561991571,2019
+UAE,4,Foodstuffs,7464175210,2019
+UAE,5,Mineral Products,2699042113,2019
+UAE,6,Chemical Products,8832363711,2019
+UAE,7,Plastics and Rubbers,8164432315,2019
+UAE,8,Animal Hides,295505279,2019
+UAE,9,Wood Products,276816234,2019
+UAE,10,Paper Goods,2321358141,2019
+UAE,11,Textiles,3795407465,2019
+UAE,12,Footwear and Headwear,704982574,2019
+UAE,13,Stone And Glass,1345126169,2019
+UAE,14,Precious Metals,44803678376,2019
+UAE,15,Metals,17005964809,2019
+UAE,16,Machines,32793572793,2019
+UAE,17,Transportation,12116963299,2019
+UAE,18,Instruments,2322979057,2019
+UAE,19,Weapons,8980225,2019
+UAE,20,Miscellaneous,1284200640,2019
+UAE,21,Arts and Antiques,235537544,2019
+Oman,1,Animal Products,637068715,2014
+Oman,2,Vegetable Products,187140178,2014
+Oman,3,Animal and Vegetable Bi-Products,218100546,2014
+Oman,4,Foodstuffs,527071404,2014
+Oman,5,Mineral Products,1077722395,2014
+Oman,6,Chemical Products,3092387778,2014
+Oman,7,Plastics and Rubbers,1227453232,2014
+Oman,8,Animal Hides,3828010,2014
+Oman,9,Wood Products,17243534,2014
+Oman,10,Paper Goods,51563901,2014
+Oman,11,Textiles,59537220,2014
+Oman,12,Footwear and Headwear,13070586,2014
+Oman,13,Stone And Glass,321612570,2014
+Oman,14,Precious Metals,323102542,2014
+Oman,15,Metals,2207890651,2014
+Oman,16,Machines,996533785,2014
+Oman,17,Transportation,277926863,2014
+Oman,18,Instruments,66871477,2014
+Oman,19,Weapons,138295,2014
+Oman,20,Miscellaneous,73757713,2014
+Oman,21,Arts and Antiques,376975,2014
+Oman,1,Animal Products,604280623,2015
+Oman,2,Vegetable Products,166423621,2015
+Oman,3,Animal and Vegetable Bi-Products,210916898,2015
+Oman,4,Foodstuffs,511311238,2015
+Oman,5,Mineral Products,807216493,2015
+Oman,6,Chemical Products,2290020727,2015
+Oman,7,Plastics and Rubbers,967810146,2015
+Oman,8,Animal Hides,3994481,2015
+Oman,9,Wood Products,17732719,2015
+Oman,10,Paper Goods,58789999,2015
+Oman,11,Textiles,44833654,2015
+Oman,12,Footwear and Headwear,9569509,2015
+Oman,13,Stone And Glass,332020840,2015
+Oman,14,Precious Metals,265206573,2015
+Oman,15,Metals,2028709591,2015
+Oman,16,Machines,797639273,2015
+Oman,17,Transportation,3834506385,2015
+Oman,18,Instruments,57998137,2015
+Oman,19,Weapons,3874,2015
+Oman,20,Miscellaneous,63643792,2015
+Oman,21,Arts and Antiques,2249412,2015
+Oman,1,Animal Products,561430123,2016
+Oman,2,Vegetable Products,163387313,2016
+Oman,3,Animal and Vegetable Bi-Products,200036974,2016
+Oman,4,Foodstuffs,406905166,2016
+Oman,5,Mineral Products,657695355,2016
+Oman,6,Chemical Products,1987067265,2016
+Oman,7,Plastics and Rubbers,694934327,2016
+Oman,8,Animal Hides,3387112,2016
+Oman,9,Wood Products,21362321,2016
+Oman,10,Paper Goods,47796216,2016
+Oman,11,Textiles,46158697,2016
+Oman,12,Footwear and Headwear,6835104,2016
+Oman,13,Stone And Glass,340811323,2016
+Oman,14,Precious Metals,119735146,2016
+Oman,15,Metals,1981462903,2016
+Oman,16,Machines,588525378,2016
+Oman,17,Transportation,495981219,2016
+Oman,18,Instruments,10756874,2016
+Oman,19,Weapons,129683,2016
+Oman,20,Miscellaneous,71046849,2016
+Oman,21,Arts and Antiques,280052,2016
+Oman,1,Animal Products,544326882,2017
+Oman,2,Vegetable Products,213101769,2017
+Oman,3,Animal and Vegetable Bi-Products,214847248,2017
+Oman,4,Foodstuffs,780867618,2017
+Oman,5,Mineral Products,1385828578,2017
+Oman,6,Chemical Products,2371344217,2017
+Oman,7,Plastics and Rubbers,1047077151,2017
+Oman,8,Animal Hides,9115695,2017
+Oman,9,Wood Products,35099294,2017
+Oman,10,Paper Goods,98399007,2017
+Oman,11,Textiles,141803322,2017
+Oman,12,Footwear and Headwear,26031146,2017
+Oman,13,Stone And Glass,331376057,2017
+Oman,14,Precious Metals,213369679,2017
+Oman,15,Metals,2256604970,2017
+Oman,16,Machines,1207683295,2017
+Oman,17,Transportation,509688567,2017
+Oman,18,Instruments,82324894,2017
+Oman,19,Weapons,29779,2017
+Oman,20,Miscellaneous,82062267,2017
+Oman,21,Arts and Antiques,165194,2017
+Oman,1,Animal Products,760850217,2018
+Oman,2,Vegetable Products,237844013,2018
+Oman,3,Animal and Vegetable Bi-Products,197823322,2018
+Oman,4,Foodstuffs,808925872,2018
+Oman,5,Mineral Products,1502822718,2018
+Oman,6,Chemical Products,2689184391,2018
+Oman,7,Plastics and Rubbers,1149693195,2018
+Oman,8,Animal Hides,6433834,2018
+Oman,9,Wood Products,26920152,2018
+Oman,10,Paper Goods,110452788,2018
+Oman,11,Textiles,165847507,2018
+Oman,12,Footwear and Headwear,35994448,2018
+Oman,13,Stone And Glass,283501500,2018
+Oman,14,Precious Metals,223414862,2018
+Oman,15,Metals,3567823602,2018
+Oman,16,Machines,1330501081,2018
+Oman,17,Transportation,1760831148,2018
+Oman,18,Instruments,163795293,2018
+Oman,19,Weapons,10114832,2018
+Oman,20,Miscellaneous,113136649,2018
+Oman,21,Arts and Antiques,492659,2018
+Oman,1,Animal Products,368331271,2019
+Oman,2,Vegetable Products,86934514,2019
+Oman,3,Animal and Vegetable Bi-Products,139811631,2019
+Oman,4,Foodstuffs,259397217,2019
+Oman,5,Mineral Products,1235707003,2019
+Oman,6,Chemical Products,2858480860,2019
+Oman,7,Plastics and Rubbers,1007672585,2019
+Oman,8,Animal Hides,1265776,2019
+Oman,9,Wood Products,6546633,2019
+Oman,10,Paper Goods,37792476,2019
+Oman,11,Textiles,26575747,2019
+Oman,12,Footwear and Headwear,1725391,2019
+Oman,13,Stone And Glass,184444264,2019
+Oman,14,Precious Metals,378200924,2019
+Oman,15,Metals,3426189385,2019
+Oman,16,Machines,478625369,2019
+Oman,17,Transportation,817654135,2019
+Oman,18,Instruments,22234489,2019
+Oman,19,Weapons,271674,2019
+Oman,20,Miscellaneous,44212710,2019
+Oman,21,Arts and Antiques,3731330,2019
